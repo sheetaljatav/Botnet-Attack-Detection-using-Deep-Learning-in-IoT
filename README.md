@@ -327,6 +327,8 @@ data by adjusting the mean at zero and standardizing the
 data by producing a standard deviation of one.  
 IV. MODULES DESCRIPTION 
 Fig. 2. System Flow 
+![image](https://github.com/user-attachments/assets/065debdf-31a7-44fd-aad1-9a98b083afaa)
+
 
 
 1. Data selection 
