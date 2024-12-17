@@ -387,6 +387,18 @@ LSTM. The LSTM architecture has feedback connections,
 which sets it apart from conventional feedforward neural 
 networks.
 
+OUTPUT-
+![image](https://github.com/user-attachments/assets/64632378-4111-4561-abee-4f631d42d40d)
+![image](https://github.com/user-attachments/assets/a0eb5ab6-af44-4347-88d4-ea432aff20bf)
+
+
+![image](https://github.com/user-attachments/assets/73d1e8ed-dcda-4b5c-8d35-bd298766cd2d)
+![image](https://github.com/user-attachments/assets/fe66c1b9-1af3-4743-8851-23b0f66e36d9)
+![image](https://github.com/user-attachments/assets/b388dd35-57a6-487f-9435-16a0850058e9)
+![image](https://github.com/user-attachments/assets/36f77f5a-ee19-4721-8b0c-e0c10c2b0c73)
+![image](https://github.com/user-attachments/assets/d75f85f5-2dc8-4b19-99ce-2ecd32e31ca4)
+![image](https://github.com/user-attachments/assets/d04f7bfd-441e-4e0a-862b-802c428f0a8e)
+![image](https://github.com/user-attachments/assets/9ab4ff58-8ff8-4623-8644-21c5b649fd7e)
 
 
 V. RESULTS AND DISCUSSION 
